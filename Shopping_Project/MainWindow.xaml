@@ -6,7 +6,9 @@
         xmlns:local="clr-namespace:Shopping_Project"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
         
+    <Grid>
+        <Label Content="Hello"  HorizontalAlignment="Left" Margin="416,153,0,0" VerticalAlignment="Top"/>
+
     </Grid>
 </Window>
